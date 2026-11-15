@@ -1,0 +1,34 @@
+{
+  "name": "forest-explorer",
+  "version": "2.0.0",
+  "private": true,
+  "description": "An offline-first atlas of the world's forests, rare wildlife, and deep-time natural history.",
+  "license": "MIT",
+  "author": "Diva-L123",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Diva-L123/forest-explorer.git"
+  },
+  "homepage": "https://github.com/Diva-L123/forest-explorer#readme",
+  "keywords": [
+    "forest",
+    "atlas",
+    "wildlife",
+    "conservation",
+    "natural-history",
+    "pwa",
+    "offline-first",
+    "leaflet",
+    "sqlite",
+    "vanilla-js",
+    "zero-dependencies"
+  ],
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/*.test.js",
+    "check": "node --check server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}

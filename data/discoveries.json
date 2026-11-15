@@ -1,0 +1,98 @@
+[
+  {
+    "id": "disc-001",
+    "title": "Subterranean Spring Vapors Over Riparian Bryophytes",
+    "forestId": "cheonggyecheon-urban-stream",
+    "forestName": "Cheonggyecheon Riparian Corridor",
+    "author": "Dr. Sarah Lin",
+    "authorRole": "Urban Limnology Fellow",
+    "date": "2026-10-24",
+    "rarityBadge": "Microclimate Discovery",
+    "likes": 342,
+    "tags": [
+      "Thermal Vapor",
+      "Morning Ecology",
+      "Hydro-Moss",
+      "Microclimate"
+    ],
+    "excerpt": "Dawn temperature differentials between cool autumn air and warm subterranean springs create a 1.5-meter thermal steam cushion that sustains tropical moss varieties in the heart of downtown.",
+    "content": "Deploying thermal sensors along the stone embankments between 05:45 and 06:30, we identified localized microclimates where water vapor remains suspended above the gravel shallows. This thermal pocket protects delicate hydro-moss from early morning frosts and draws songbirds down for warm morning baths.",
+    "image": "./images/cheonggyecheon/1_morning_mist.jpg",
+    "verified": false,
+    "verificationLabel": "Field note — verification pending",
+    "source": "Urban limnology field report",
+    "forestType": "Riparian"
+  },
+  {
+    "id": "disc-002",
+    "title": "Camera Trap Confirms Breeding Lynx Pair in Central Valley",
+    "forestId": "black-forest",
+    "forestName": "The Black Forest (Schwarzwald)",
+    "author": "Markus Weber",
+    "authorRole": "Forestry Wildlife Officer",
+    "date": "2026-10-18",
+    "rarityBadge": "Apex Predator Sighting",
+    "likes": 589,
+    "tags": [
+      "Rewilding",
+      "Eurasian Lynx",
+      "Camera Trap",
+      "Conservation"
+    ],
+    "excerpt": "Motion-sensor infrared cameras in the northern fir plateau captured the first confirmed footage of twin Eurasian lynx kittens in over a century.",
+    "content": "At 02:14 under dense silver fir cover, camera unit #14 recorded a healthy female lynx accompanied by two 4-month-old cubs navigating the mossy granite scree. This provides indisputable proof that natural reproduction is occurring in the German Black Forest without artificial human intervention.",
+    "image": "./images/black_forest/1_mummelsee_lake.jpg",
+    "verified": true,
+    "verificationLabel": "Camera-trap record reviewed",
+    "source": "Black Forest wildlife monitoring unit",
+    "forestType": "Temperate"
+  },
+  {
+    "id": "disc-003",
+    "title": "Acoustic Sensors Detect Ultrasonic Click Patterns from 3,000-Year Cedar",
+    "forestId": "yakushima-ancient-forest",
+    "forestName": "Yakushima Primeval Cedar Forest",
+    "author": "Kenji Sato",
+    "authorRole": "Bio-acoustics Researcher",
+    "date": "2026-10-09",
+    "rarityBadge": "Bio-Acoustic Anomaly",
+    "likes": 712,
+    "tags": [
+      "Ancient Cedars",
+      "Tree Resonance",
+      "Kodama Echo",
+      "Acoustics"
+    ],
+    "excerpt": "Contact microphones clamped to the inner hollow of the Daio Sugi cedar recorded rhythmic resonance frequencies when mountain fog rolls through the ravine.",
+    "content": "Rather than spiritual spirits, the ancient Japanese legends of 'Kodama' tree spirits may have a fascinating biological basis: the intense xylem sap pressure within ancient resin-dense trunks produces micro-acoustic clicks that resonate through the hollow chambers when humidity surges during incoming coastal mists.",
+    "image": "./images/yakushima/1_moss_stream.jpg",
+    "verified": false,
+    "verificationLabel": "Preliminary acoustic study",
+    "source": "Bio-acoustics research note",
+    "forestType": "Temperate"
+  },
+  {
+    "id": "disc-004",
+    "title": "Bioluminescent Fungi Colony Mapped Along Floodplain",
+    "forestId": "amazon-rainforest",
+    "forestName": "Amazon Basin Rainforest",
+    "author": "Camila Rodriguez",
+    "authorRole": "Mycological Explorer",
+    "date": "2026-09-28",
+    "rarityBadge": "Rare Bioluminescence",
+    "likes": 841,
+    "tags": [
+      "Fungi",
+      "Foxfire",
+      "Night Expedition",
+      "Flooded Jungle"
+    ],
+    "excerpt": "Deep in the primary inundated jungle, an entire decaying fallen trunk of an ancient ironwood was discovered emitting an otherworldly neon green glow visible from 30 meters away.",
+    "content": "Known locally as 'luz de la selva' (jungle light), these Neonothopanus mycelia emit luciferase enzymes that react with oxygen to glow steadily in the pitch-black understory. Nocturnal beetles are drawn to the beacon, dispersing spores across the canopy floor.",
+    "image": "./images/amazon/1_canopy_sunrise.jpg",
+    "verified": false,
+    "verificationLabel": "Field observation — verification pending",
+    "source": "Mycology expedition notes",
+    "forestType": "Tropical"
+  }
+]

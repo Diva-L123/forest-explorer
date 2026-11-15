@@ -1,0 +1,106 @@
+[
+    {
+        "slug":  "bialowieza",
+        "file":  "02_forest_interior.jpg",
+        "title":  "File:Bialowieza National Park in Poland0012.JPG",
+        "artist":  "Jacek Karczmarz",
+        "license":  "CC BY-SA 3.0",
+        "source":  "https://commons.wikimedia.org/wiki/File:Bialowieza_National_Park_in_Poland0012.JPG"
+    },
+    {
+        "slug":  "bialowieza",
+        "file":  "04_bison_calf.jpg",
+        "title":  "File:European bison (Bison bonasus) calf Białowieza.jpg",
+        "artist":  "Charles J. Sharp",
+        "license":  "CC BY-SA 4.0",
+        "source":  "https://commons.wikimedia.org/wiki/File:European_bison_(Bison_bonasus)_calf_Bia%C5%82owieza.jpg"
+    },
+    {
+        "slug":  "congo",
+        "file":  "01_likouala_river.jpg",
+        "title":  "File:Tropical rainforest along the Likouala-aux-Herbes River.jpg",
+        "artist":  "JosepMGracia",
+        "license":  "CC BY-SA 4.0",
+        "source":  "https://commons.wikimedia.org/wiki/File:Tropical_rainforest_along_the_Likouala-aux-Herbes_River.jpg"
+    },
+    {
+        "slug":  "congo",
+        "file":  "02_forest_elephant.jpg",
+        "title":  "File:Loxodontacyclotis.jpg",
+        "artist":  "Thomas Breuer",
+        "license":  "CC BY 2.5",
+        "source":  "https://commons.wikimedia.org/wiki/File:Loxodontacyclotis.jpg"
+    },
+    {
+        "slug":  "congo",
+        "file":  "04_rainforest_river.jpg",
+        "title":  "File:River in rainforest - North Kivu (21062578875).jpg",
+        "artist":  "MONUSCO Photos",
+        "license":  "CC BY-SA 2.0",
+        "source":  "https://commons.wikimedia.org/wiki/File:River_in_rainforest_-_North_Kivu_(21062578875).jpg"
+    },
+    {
+        "slug":  "daintree",
+        "file":  "01_canopy.jpg",
+        "title":  "File:Complex mesophyll vine forest canopy Daintree National Park Queensland 1986 IMG 0058.jpg",
+        "artist":  "John Robert McPherson",
+        "license":  "CC BY-SA 4.0",
+        "source":  "https://commons.wikimedia.org/wiki/File:Complex_mesophyll_vine_forest_canopy_Daintree_National_Park_Queensland_1986_IMG_0058.jpg"
+    },
+    {
+        "slug":  "daintree",
+        "file":  "02_rainforest.jpg",
+        "title":  "File:Daintree Rainforest 2.jpg",
+        "artist":  "Killerscene",
+        "license":  "CC0",
+        "source":  "https://commons.wikimedia.org/wiki/File:Daintree_Rainforest_2.jpg"
+    },
+    {
+        "slug":  "daintree",
+        "file":  "03_boardwalk.jpg",
+        "title":  "File:Jindalba Boardwalk - 2013.04 - panoramio.jpg",
+        "artist":  "rheins",
+        "license":  "CC BY 3.0",
+        "source":  "https://commons.wikimedia.org/wiki/File:Jindalba_Boardwalk_-_2013.04_-_panoramio.jpg"
+    },
+    {
+        "slug":  "daintree",
+        "file":  "04_river.jpg",
+        "title":  "File:20160923113050 - One of the many rivers in the Daintree (29917413112).jpg",
+        "artist":  "Felix Dance",
+        "license":  "CC BY 2.0",
+        "source":  "https://commons.wikimedia.org/wiki/File:20160923113050_-_One_of_the_many_rivers_in_the_Daintree_(29917413112).jpg"
+    },
+    {
+        "slug":  "sundarbans",
+        "file":  "01_mangrove_tide.jpg",
+        "title":  "File:Dense Mangrove Forest of the Sundarban Tiger Reserve during High Tide, West Bengal, India 03.jpg",
+        "artist":  "Kingshuk Mondal",
+        "license":  "CC BY 4.0",
+        "source":  "https://commons.wikimedia.org/wiki/File:Dense_Mangrove_Forest_of_the_Sundarban_Tiger_Reserve_during_High_Tide,_West_Bengal,_India_03.jpg"
+    },
+    {
+        "slug":  "sundarbans",
+        "file":  "02_mangrove_roots.jpg",
+        "title":  "File:Mangrove Vegetation of Sundarban, West Bengal, India 05.jpg",
+        "artist":  "Kingshuk Mondal",
+        "license":  "CC BY 4.0",
+        "source":  "https://commons.wikimedia.org/wiki/File:Mangrove_Vegetation_of_Sundarban,_West_Bengal,_India_05.jpg"
+    },
+    {
+        "slug":  "sundarbans",
+        "file":  "03_forest_river.jpg",
+        "title":  "File:Sundarban Tiger Reserve forest and adjacent rivers 10.jpg",
+        "artist":  "Pinakpani",
+        "license":  "CC BY-SA 4.0",
+        "source":  "https://commons.wikimedia.org/wiki/File:Sundarban_Tiger_Reserve_forest_and_adjacent_rivers_10.jpg"
+    },
+    {
+        "slug":  "sundarbans",
+        "file":  "04_bengal_tiger.jpg",
+        "title":  "File:Bengal tiger (Panthera tigris tigris) female 3.jpg",
+        "artist":  "Charles J. Sharp",
+        "license":  "CC BY-SA 4.0",
+        "source":  "https://commons.wikimedia.org/wiki/File:Bengal_tiger_(Panthera_tigris_tigris)_female_3.jpg"
+    }
+]

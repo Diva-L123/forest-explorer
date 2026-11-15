@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "jaguar-panthera",
+    "commonName": "Amazonian Jaguar",
+    "scientificName": "Panthera onca",
+    "category": "Mammals",
+    "forestId": "amazon-rainforest",
+    "forestIds": [
+      "amazon-rainforest"
+    ],
+    "conservationStatus": "NT",
+    "statusLabel": "Near Threatened",
+    "endemic": false,
+    "rare": true,
+    "featured": true,
+    "image": "./images/amazon/2_riverbank_jaguar.jpg",
+    "imageCaption": "A jaguar resting beside a flooded Amazon forest channel.",
+    "imageCredit": "Forest Explorer visual archive",
+    "imageLicense": "Project asset",
+    "diet": "Carnivore — caiman, capybara, peccary, fish and turtles",
+    "activity": "Crepuscular and nocturnal",
+    "size": "1.2–1.8 m body length; 56–96 kg",
+    "lifespan": "12–15 years in the wild",
+    "distribution": "From Mexico through Central America to northern Argentina; strongest populations remain in the Amazon and Pantanal.",
+    "habitat": "Tropical rainforest, seasonally flooded forest, river margins, wetlands and dry woodland.",
+    "physical": "A stocky big cat with a broad head, powerful jaws and a coat of rosettes. Individuals can be identified by their unique spot patterns.",
+    "behaviour": "Solitary and territorial. Unlike most big cats, jaguars are powerful swimmers and often hunt along rivers and flooded forest.",
+    "reproduction": "Gestation lasts about 90–105 days. Females give birth to one to four cubs, usually in a sheltered den; cubs stay with their mother for around two years.",
+    "description": "The largest cat of the Americas and the third-largest cat in the world. Its extraordinary bite can pierce turtle shells and caiman skulls, and its presence shapes prey behaviour across the forest.",
+    "keyTraits": [
+      "Strongest bite force relative to body size among big cats",
+      "Rosette patterns are unique to each individual",
+      "An important apex predator in Amazonian river and forest systems"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "genus": "Panthera"
+    },
+    "references": [
+      "IUCN Red List — Panthera onca",
+      "GBIF — Panthera onca occurrence data"
+    ]
+  },
+  {
+    "id": "harpy-eagle",
+    "commonName": "Harpy Eagle",
+    "scientificName": "Harpia harpyja",
+    "category": "Birds",
+    "forestId": "amazon-rainforest",
+    "forestIds": [
+      "amazon-rainforest"
+    ],
+    "conservationStatus": "VU",
+    "statusLabel": "Vulnerable",
+    "endemic": false,
+    "rare": true,
+    "featured": true,
+    "image": "./images/species/harpy_eagle.jpg",
+    "imageCaption": "A Harpy Eagle in captivity; wild birds are elusive canopy specialists.",
+    "imageCredit": "Brian Gratwicke",
+    "imageLicense": "CC BY 2.0",
+    "diet": "Carnivore — sloths, monkeys, opossums and large birds",
+    "activity": "Diurnal",
+    "size": "86–107 cm body length; 1.8–2.2 m wingspan",
+    "lifespan": "25–35 years",
+    "distribution": "Lowland tropical forests from southern Mexico through Central America to northern Argentina.",
+    "habitat": "Mature lowland and premontane rainforest with tall emergent trees for nesting.",
+    "physical": "A massive raptor with a double crest, a pale grey head, dark chest band and enormous talons. Females are larger than males.",
+    "behaviour": "Hunts by stealth from perches below the canopy, using short bursts of flight to seize prey. Pairs maintain large territories and reuse nest trees.",
+    "reproduction": "Pairs typically raise one chick every two to three years. Nests are huge platforms of sticks built high in emergent trees.",
+    "description": "One of the world's largest and most powerful eagles. Its rear talons are longer than a grizzly bear's claws, allowing it to take prey as large as howler monkeys.",
+    "keyTraits": [
+      "Apex aerial predator of the Neotropical canopy",
+      "Facial disc helps funnel sound to the ears",
+      "Needs large areas of undisturbed forest to breed successfully"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Accipitriformes",
+      "family": "Accipitridae",
+      "genus": "Harpia"
+    },
+    "references": [
+      "IUCN Red List — Harpia harpyja",
+      "GBIF — Harpia harpyja"
+    ]
+  },
+  {
+    "id": "yakushima-macaque",
+    "commonName": "Yakushima Macaque",
+    "scientificName": "Macaca fuscata yakui",
+    "category": "Mammals",
+    "forestId": "yakushima-ancient-forest",
+    "forestIds": [
+      "yakushima-ancient-forest"
+    ],
+    "conservationStatus": "LC",
+    "statusLabel": "Least Concern (subspecies not separately assessed)",
+    "endemic": true,
+    "rare": true,
+    "featured": false,
+    "image": "./images/species/yakushima_macaque.jpg",
+    "imageCaption": "An endemic Yakushima macaque on a moss-covered branch.",
+    "imageCredit": "Grendelkhan",
+    "imageLicense": "CC BY-SA 3.0",
+    "diet": "Omnivore — fruit, seeds, fungi, leaves, insects and small animals",
+    "activity": "Diurnal",
+    "size": "45–60 cm body length; 8–12 kg",
+    "lifespan": "20–30 years",
+    "distribution": "Restricted to Yakushima Island, Japan.",
+    "habitat": "Subtropical and temperate rainforest from coastal forest to mountain cedar stands.",
+    "physical": "A dark-furred macaque with a short tail and dense coat adapted to heavy rain and cool mountain temperatures.",
+    "behaviour": "Lives in structured social troops. Famous for occasionally riding or closely associating with Sika deer, apparently benefiting from fruit dropped by the deer.",
+    "reproduction": "Females usually produce one infant after a gestation of about five to six months. Infants remain dependent for several years.",
+    "description": "An endemic island subspecies of the Japanese macaque, adapted to Yakushima's extraordinary rainfall. Its forest life is interwoven with the island's mossy cedar ecosystem.",
+    "keyTraits": [
+      "Endemic to Yakushima",
+      "Dense coat adapted to persistent rain",
+      "Known for unusual associations with Sika deer"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Primates",
+      "family": "Cercopithecidae",
+      "genus": "Macaca"
+    },
+    "references": [
+      "IUCN Red List — Macaca fuscata",
+      "Yakushima National Park biodiversity records"
+    ]
+  },
+  {
+    "id": "sika-deer",
+    "commonName": "Yakushima Sika Deer",
+    "scientificName": "Cervus nippon yakushimae",
+    "category": "Mammals",
+    "forestId": "yakushima-ancient-forest",
+    "forestIds": [
+      "yakushima-ancient-forest"
+    ],
+    "conservationStatus": "LC",
+    "statusLabel": "Least Concern (subspecies not separately assessed)",
+    "endemic": true,
+    "rare": false,
+    "featured": false,
+    "image": "./images/yakushima/3_sika_deer.jpg",
+    "imageCaption": "A Sika deer grazing on a mossy Yakushima forest floor.",
+    "imageCredit": "Forest Explorer visual archive",
+    "imageLicense": "Project asset",
+    "diet": "Herbivore — grasses, leaves, herbs and forest fruit",
+    "activity": "Crepuscular and diurnal",
+    "size": "90–130 cm shoulder height; 30–60 kg",
+    "lifespan": "10–18 years",
+    "distribution": "Yakushima Island, Japan.",
+    "habitat": "Mossy subtropical forest, forest edges and open areas across the island.",
+    "physical": "A relatively small, dark-coated sika deer with spotted summer coat and compact antlers in males.",
+    "behaviour": "Browses and grazes in small groups. High population density can suppress forest understorey regeneration.",
+    "reproduction": "Mating peaks in autumn; one calf is typically born after about seven months.",
+    "description": "Yakushima's endemic sika deer is a key herbivore in the island forest. Its relationship with the endemic macaque is one of the more unusual ecological associations in East Asian forests.",
+    "keyTraits": [
+      "Endemic island subspecies",
+      "A major force shaping understorey vegetation",
+      "Closely associated with Yakushima macaques"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Cervidae",
+      "genus": "Cervus"
+    },
+    "references": [
+      "GBIF — Cervus nippon",
+      "Yakushima National Park management reports"
+    ]
+  },
+  {
+    "id": "eurasian-lynx",
+    "commonName": "Eurasian Lynx",
+    "scientificName": "Lynx lynx",
+    "category": "Mammals",
+    "forestId": "black-forest",
+    "forestIds": [
+      "black-forest",
+      "bialowieza-primeval-forest"
+    ],
+    "conservationStatus": "LC",
+    "statusLabel": "Least Concern (locally endangered in parts of western Europe)",
+    "endemic": false,
+    "rare": true,
+    "featured": true,
+    "image": "./images/species/eurasian_lynx.jpg",
+    "imageCaption": "A Carpathian lynx portrait.",
+    "imageCredit": "Wilfredor",
+    "imageLicense": "CC0",
+    "diet": "Carnivore — roe deer, chamois, hares and smaller mammals",
+    "activity": "Nocturnal and crepuscular",
+    "size": "80–130 cm body length; 18–30 kg",
+    "lifespan": "12–20 years",
+    "distribution": "Boreal and temperate forests from Scandinavia and eastern Europe across Russia and Central Asia, with reintroduced populations in western Europe.",
+    "habitat": "Dense mixed and coniferous forest with good cover, rocky terrain and sufficient prey.",
+    "physical": "A medium-sized wild cat with long legs, tufted ears, a short bobbed tail and large snowshoe-like paws.",
+    "behaviour": "Solitary and secretive, holding large territories. Uses scent marking, scrapes and vocalisations to communicate.",
+    "reproduction": "Mating occurs in late winter. After a gestation of about 69 days, females give birth to two to four kittens in a hidden den.",
+    "description": "The largest European wild cat. Persecuted to local extinction in parts of Europe, it is now returning through reintroduction and natural recolonisation, including in Germany's Black Forest.",
+    "keyTraits": [
+      "Ear tufts help channel sound",
+      "Large paws function like snowshoes",
+      "A flagship species for forest connectivity and rewilding"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "genus": "Lynx"
+    },
+    "references": [
+      "IUCN Red List — Lynx lynx",
+      "Black Forest National Park — lynx monitoring"
+    ]
+  },
+  {
+    "id": "european-bison",
+    "commonName": "European Bison (Żubr)",
+    "scientificName": "Bison bonasus",
+    "category": "Mammals",
+    "forestId": "bialowieza-primeval-forest",
+    "forestIds": [
+      "bialowieza-primeval-forest"
+    ],
+    "conservationStatus": "NT",
+    "statusLabel": "Near Threatened",
+    "endemic": false,
+    "rare": true,
+    "featured": true,
+    "image": "./images/bialowieza/04_bison_calf.jpg",
+    "imageCaption": "A European bison calf in Białowieża Forest.",
+    "imageCredit": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "diet": "Herbivore — grasses, bark, leaves and acorns",
+    "activity": "Diurnal and crepuscular",
+    "size": "2.1–3.5 m body length; 400–1,000 kg",
+    "lifespan": "18–24 years",
+    "distribution": "Free-ranging herds in Poland, Belarus, Germany, Romania and several other European countries, descended from captive breeding stock.",
+    "habitat": "Mixed deciduous and coniferous forest with open clearings, meadows and wetlands.",
+    "physical": "Europe's heaviest wild land mammal, with a massive forequarter, a high shoulder hump and short, curved horns.",
+    "behaviour": "Lives in herds led by older females; males may be solitary or form small bachelor groups. Bison browse and break vegetation, creating structural diversity.",
+    "reproduction": "Females give birth to a single calf after about nine months, usually in spring. Herds protect calves collectively.",
+    "description": "The European bison survived the 20th century only through intense breeding and reintroduction. Białowieża remains its most important stronghold and a symbol of European rewilding.",
+    "keyTraits": [
+      "Europe's heaviest surviving wild land mammal",
+      "A living remnant of Pleistocene megafauna",
+      "An ecosystem engineer that maintains open woodland structure"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Bovidae",
+      "genus": "Bison"
+    },
+    "references": [
+      "IUCN Red List — Bison bonasus",
+      "Białowieża National Park — European bison programme"
+    ]
+  },
+  {
+    "id": "african-forest-elephant",
+    "commonName": "African Forest Elephant",
+    "scientificName": "Loxodonta cyclotis",
+    "category": "Mammals",
+    "forestId": "congo-basin-rainforest",
+    "forestIds": [
+      "congo-basin-rainforest"
+    ],
+    "conservationStatus": "CR",
+    "statusLabel": "Critically Endangered",
+    "endemic": false,
+    "rare": true,
+    "featured": true,
+    "image": "./images/congo/02_forest_elephant.jpg",
+    "imageCaption": "An African forest elephant in dense Congo Basin vegetation.",
+    "imageCredit": "Thomas Breuer",
+    "imageLicense": "CC BY 2.5",
+    "diet": "Herbivore — fruit, leaves, bark, roots and mineral-rich soil",
+    "activity": "Diurnal and nocturnal",
+    "size": "2.4–3.0 m shoulder height; 2,000–4,500 kg",
+    "lifespan": "50–70 years",
+    "distribution": "West and Central African tropical forests, especially the Congo Basin.",
+    "habitat": "Lowland tropical rainforest, swamp forest and forest-savanna mosaics.",
+    "physical": "Smaller than the savanna elephant, with rounded ears, a straighter back and downward-pointing tusks adapted to dense forest.",
+    "behaviour": "Moves along traditional forest trails and clearings, dispersing seeds in large quantities. Social groups are smaller and less fluid than those of savanna elephants.",
+    "reproduction": "Females give birth to one calf after a gestation of around 22 months, one of the longest pregnancies among mammals.",
+    "description": "A critically endangered forest specialist and one of the most important seed dispersers in the Congo Basin. Its decline threatens the composition and regeneration of vast areas of rainforest.",
+    "keyTraits": [
+      "Critically Endangered",
+      "Disperses seeds of many large-fruited trees",
+      "Creates trails and clearings used by other species"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae",
+      "genus": "Loxodonta"
+    },
+    "references": [
+      "IUCN Red List — Loxodonta cyclotis",
+      "GBIF — Loxodonta cyclotis"
+    ]
+  },
+  {
+    "id": "okapi",
+    "commonName": "Okapi",
+    "scientificName": "Okapia johnstoni",
+    "category": "Mammals",
+    "forestId": "congo-basin-rainforest",
+    "forestIds": [
+      "congo-basin-rainforest"
+    ],
+    "conservationStatus": "EN",
+    "statusLabel": "Endangered",
+    "endemic": true,
+    "rare": true,
+    "featured": true,
+    "image": "./images/species/okapi.jpg",
+    "imageCaption": "An okapi, whose striped legs help it disappear into forest shadow.",
+    "imageCredit": "k7hpn",
+    "imageLicense": "CC BY 2.0",
+    "diet": "Folivore — leaves, buds, shoots and fruit",
+    "activity": "Diurnal and crepuscular",
+    "size": "1.9–2.5 m body length; 200–350 kg",
+    "lifespan": "20–30 years",
+    "distribution": "Endemic to the northeastern Democratic Republic of Congo, including the Ituri Forest.",
+    "habitat": "Dense lowland rainforest understorey and gallery forest.",
+    "physical": "A giraffe relative with a long neck, large ears, a dark velvety coat and striking black-and-white stripes on the legs and hindquarters.",
+    "behaviour": "Solitary and extremely secretive. Uses large ears and a long prehensile tongue to browse vegetation; males defend territories.",
+    "reproduction": "Females give birth to a single calf after a gestation of about 14–16 months. Calves may remain hidden for weeks.",
+    "description": "The okapi is the only living relative of the giraffe. It was unknown to Western science until 1901 and remains one of the rainforest's most elusive large mammals.",
+    "keyTraits": [
+      "Endemic to the eastern DR Congo",
+      "Only living relative of the giraffe",
+      "Striped legs provide camouflage in dappled forest light"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Giraffidae",
+      "genus": "Okapia"
+    },
+    "references": [
+      "IUCN Red List — Okapia johnstoni",
+      "GBIF — Okapia johnstoni"
+    ]
+  },
+  {
+    "id": "western-lowland-gorilla",
+    "commonName": "Western Lowland Gorilla",
+    "scientificName": "Gorilla gorilla gorilla",
+    "category": "Mammals",
+    "forestId": "congo-basin-rainforest",
+    "forestIds": [
+      "congo-basin-rainforest"
+    ],
+    "conservationStatus": "CR",
+    "statusLabel": "Critically Endangered",
+    "endemic": false,
+    "rare": true,
+    "featured": false,
+    "image": "./images/species/western_lowland_gorilla.jpg",
+    "imageCaption": "A western lowland gorilla close-up.",
+    "imageCredit": "Jackhynes",
+    "imageLicense": "CC BY-SA 3.0",
+    "diet": "Herbivore — leaves, stems, shoots, fruit, bark and insects",
+    "activity": "Diurnal",
+    "size": "1.2–1.8 m standing height; 70–200 kg",
+    "lifespan": "35–50 years",
+    "distribution": "Lowland tropical forests of the Congo Basin, including Gabon, Congo, Cameroon and the Central African Republic.",
+    "habitat": "Dense lowland rainforest, swamp forest and forest clearings.",
+    "physical": "A stocky great ape with dark hair, a pronounced brow ridge and strong sexual dimorphism; mature males develop silver backs.",
+    "behaviour": "Lives in social groups led by a dominant silverback. Uses a complex repertoire of vocalisations, gestures and facial expressions.",
+    "reproduction": "Females give birth to one infant after about 8.5–9 months. Interbirth intervals can exceed four years.",
+    "description": "The most widespread gorilla subspecies, yet critically endangered because of poaching, disease and habitat loss. Its survival depends on large, well-protected forest blocks.",
+    "keyTraits": [
+      "Critically Endangered",
+      "Highly social and intelligent",
+      "Key seed disperser in Congo Basin forests"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Primates",
+      "family": "Hominidae",
+      "genus": "Gorilla"
+    },
+    "references": [
+      "IUCN Red List — Gorilla gorilla",
+      "GBIF — Gorilla gorilla gorilla"
+    ]
+  },
+  {
+    "id": "bengal-tiger",
+    "commonName": "Bengal Tiger (Sundarbans Population)",
+    "scientificName": "Panthera tigris tigris",
+    "category": "Mammals",
+    "forestId": "sundarbans-mangrove",
+    "forestIds": [
+      "sundarbans-mangrove"
+    ],
+    "conservationStatus": "EN",
+    "statusLabel": "Endangered",
+    "endemic": false,
+    "rare": true,
+    "featured": true,
+    "image": "./images/sundarbans/04_bengal_tiger.jpg",
+    "imageCaption": "A female Bengal tiger.",
+    "imageCredit": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "diet": "Carnivore — spotted deer, wild boar, monkeys and other vertebrates",
+    "activity": "Crepuscular and nocturnal",
+    "size": "1.4–2.6 m body length; 65–220 kg",
+    "lifespan": "10–15 years",
+    "distribution": "The Sundarbans population lives in the mangrove delta shared by Bangladesh and India; the wider Bengal tiger range includes India, Nepal, Bhutan and Bangladesh.",
+    "habitat": "Mangrove forest, tidal creeks, freshwater swamp and tropical moist forest.",
+    "physical": "A large orange-and-black striped cat with a powerful build. Sundarbans tigers are adapted to swimming and moving through soft tidal mud.",
+    "behaviour": "Solitary and territorial. Sundarbans tigers regularly swim between islands and are known to drink brackish water.",
+    "reproduction": "Females give birth to two to four cubs after a gestation of about 100–110 days, usually in dense cover.",
+    "description": "The tiger is the largest living cat. The Sundarbans population is especially significant because it lives entirely within mangrove forest and is exposed to cyclones, sea-level rise and human-wildlife conflict.",
+    "keyTraits": [
+      "Endangered",
+      "Strong swimmer adapted to tidal mangrove habitat",
+      "Apex predator of the Sundarbans ecosystem"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "genus": "Panthera"
+    },
+    "references": [
+      "IUCN Red List — Panthera tigris",
+      "Sundarbans Tiger Project"
+    ]
+  },
+  {
+    "id": "fishing-cat",
+    "commonName": "Fishing Cat",
+    "scientificName": "Prionailurus viverrinus",
+    "category": "Mammals",
+    "forestId": "sundarbans-mangrove",
+    "forestIds": [
+      "sundarbans-mangrove"
+    ],
+    "conservationStatus": "VU",
+    "statusLabel": "Vulnerable",
+    "endemic": false,
+    "rare": true,
+    "featured": false,
+    "image": "./images/species/fishing_cat.jpg",
+    "imageCaption": "A fishing cat, a wetland specialist of South and Southeast Asia.",
+    "imageCredit": "Anirnoy",
+    "imageLicense": "CC BY-SA 4.0",
+    "diet": "Carnivore — fish, crabs, molluscs, frogs and small mammals",
+    "activity": "Nocturnal and crepuscular",
+    "size": "65–85 cm body length; 5–12 kg",
+    "lifespan": "10–12 years",
+    "distribution": "Fragmented populations in South and Southeast Asia, including the Sundarbans, Sri Lanka and parts of Thailand and Java.",
+    "habitat": "Mangroves, marshes, reed beds, rivers and wetlands.",
+    "physical": "A stocky, semi-aquatic cat with a broad head, short legs, partially webbed toes and a coarse olive-grey coat with dark spots.",
+    "behaviour": "An excellent swimmer that hunts in shallow water, often using its paws to stir up prey. Solitary and secretive.",
+    "reproduction": "Gestation lasts about 63–70 days. Females raise two to three kittens in a sheltered den.",
+    "description": "A specialized wetland predator that is rarely seen and easily overlooked. Draining and conversion of wetlands are its greatest threats.",
+    "keyTraits": [
+      "Vulnerable",
+      "Semi-aquatic hunting behaviour",
+      "Wetland health indicator species"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "genus": "Prionailurus"
+    },
+    "references": [
+      "IUCN Red List — Prionailurus viverrinus",
+      "GBIF — Prionailurus viverrinus"
+    ]
+  },
+  {
+    "id": "resplendent-quetzal",
+    "commonName": "Resplendent Quetzal",
+    "scientificName": "Pharomachrus mocinno",
+    "category": "Birds",
+    "forestId": "monteverde-cloud-forest",
+    "forestIds": [
+      "monteverde-cloud-forest"
+    ],
+    "conservationStatus": "NT",
+    "statusLabel": "Near Threatened",
+    "endemic": false,
+    "rare": true,
+    "featured": true,
+    "image": "./images/monteverde/2_resplendent_quetzal.jpg",
+    "imageCaption": "The iridescent Resplendent Quetzal in Monteverde cloud forest.",
+    "imageCredit": "Forest Explorer visual archive",
+    "imageLicense": "Project asset",
+    "diet": "Frugivore — wild avocado, laurel and other cloud-forest fruit; occasionally insects",
+    "activity": "Diurnal",
+    "size": "35–40 cm body length; males with tail streamers up to 1 m",
+    "lifespan": "10–15 years",
+    "distribution": "Highland cloud forests from southern Mexico through Central America to western Panama.",
+    "habitat": "Undisturbed tropical montane cloud forest with mature fruiting trees for nesting and feeding.",
+    "physical": "Males have iridescent green plumage, a red breast, a yellow bill and long green tail streamers. The colour is structural rather than pigment-based.",
+    "behaviour": "Feeds mainly on fruit, often swallowing whole avocados and later regurgitating seeds. Males perform aerial displays and compete for nest cavities.",
+    "reproduction": "Pairs excavate or reuse a cavity in a decaying tree. Two eggs are incubated for about 18 days; both parents care for the chicks.",
+    "description": "A sacred bird of Mesoamerican cultures and one of the most spectacular cloud-forest species. It is highly sensitive to forest disturbance and depends on mature fruiting trees.",
+    "keyTraits": [
+      "Near Threatened",
+      "Males have iridescent tail streamers up to one metre long",
+      "An important seed disperser for wild avocado trees"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Trogoniformes",
+      "family": "Trogonidae",
+      "genus": "Pharomachrus"
+    },
+    "references": [
+      "IUCN Red List — Pharomachrus mocinno",
+      "GBIF — Pharomachrus mocinno"
+    ]
+  },
+  {
+    "id": "southern-cassowary",
+    "commonName": "Southern Cassowary",
+    "scientificName": "Casuarius casuarius",
+    "category": "Birds",
+    "forestId": "daintree-rainforest",
+    "forestIds": [
+      "daintree-rainforest"
+    ],
+    "conservationStatus": "LC",
+    "statusLabel": "Least Concern (Australian population is of conservation concern)",
+    "endemic": false,
+    "rare": true,
+    "featured": true,
+    "image": "./images/daintree/01_canopy.jpg",
+    "imageCaption": "Daintree rainforest habitat of the Southern Cassowary.",
+    "imageCredit": "John Robert McPherson",
+    "imageLicense": "CC BY-SA 4.0",
+    "diet": "Frugivore — fallen rainforest fruit, fungi and small animals",
+    "activity": "Diurnal",
+    "size": "1.3–1.7 m tall; 30–70 kg",
+    "lifespan": "40–50 years",
+    "distribution": "New Guinea, surrounding islands and the Wet Tropics of north-eastern Queensland, Australia.",
+    "habitat": "Tropical rainforest, gallery forest, swamp forest and forest edges.",
+    "physical": "A large flightless bird with glossy black feathers, a bright blue neck, a casque on the head and powerful legs with dagger-like claws.",
+    "behaviour": "Solitary outside breeding. An important seed disperser that swallows large fruits and moves seeds long distances through the forest.",
+    "reproduction": "Females lay three to five eggs in a ground nest. Males incubate the eggs and raise the chicks alone for many months.",
+    "description": "A keystone rainforest species and one of the world's largest birds. Road collisions, dog attacks and habitat fragmentation are major threats in Australia.",
+    "keyTraits": [
+      "A keystone seed disperser",
+      "Males alone incubate eggs and raise chicks",
+      "Dangerous when cornered, with powerful clawed feet"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Casuariiformes",
+      "family": "Casuariidae",
+      "genus": "Casuarius"
+    },
+    "references": [
+      "IUCN Red List — Casuarius casuarius",
+      "Queensland Parks and Wildlife Service — cassowary conservation"
+    ]
+  },
+  {
+    "id": "eurasian-tree-sparrow",
+    "commonName": "Eurasian Tree Sparrow",
+    "scientificName": "Passer montanus",
+    "category": "Birds",
+    "forestId": "cheonggyecheon-urban-stream",
+    "forestIds": [
+      "cheonggyecheon-urban-stream"
+    ],
+    "conservationStatus": "LC",
+    "statusLabel": "Least Concern",
+    "endemic": false,
+    "rare": false,
+    "featured": false,
+    "image": "./images/cheonggyecheon/3_riverbank_birds.jpg",
+    "imageCaption": "Small riparian birds foraging along the Cheonggyecheon.",
+    "imageCredit": "Forest Explorer visual archive",
+    "imageLicense": "Project asset",
+    "diet": "Granivore and insectivore — seeds, grain and small invertebrates",
+    "activity": "Diurnal, most active at dawn and dusk",
+    "size": "12–14 cm; 18–28 g",
+    "lifespan": "3–5 years",
+    "distribution": "Widespread across Europe and Asia; introduced in parts of North America and Australia.",
+    "habitat": "Woodland edges, farmland, villages, parks and urban riparian corridors.",
+    "physical": "A small brown sparrow with a chestnut crown, black ear patch and white cheek.",
+    "behaviour": "Highly social, often feeding in flocks. Uses cavities and crevices for nesting, including buildings and river walls.",
+    "reproduction": "Typically raises two or three broods per year, with four to six eggs per clutch.",
+    "description": "A resilient songbird that has adapted well to people. Along the Cheonggyecheon it forages among river stones and bathes in the shallow water.",
+    "keyTraits": [
+      "Adaptable urban riparian songbird",
+      "Distinctive black ear patch",
+      "Social flocking behaviour"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Passeriformes",
+      "family": "Passeridae",
+      "genus": "Passer"
+    },
+    "references": [
+      "IUCN Red List — Passer montanus",
+      "GBIF — Passer montanus"
+    ]
+  },
+  {
+    "id": "grey-heron",
+    "commonName": "Grey Heron",
+    "scientificName": "Ardea cinerea",
+    "category": "Birds",
+    "forestId": "cheonggyecheon-urban-stream",
+    "forestIds": [
+      "cheonggyecheon-urban-stream"
+    ],
+    "conservationStatus": "LC",
+    "statusLabel": "Least Concern",
+    "endemic": false,
+    "rare": false,
+    "featured": false,
+    "image": "./images/cheonggyecheon/3_riverbank_birds.jpg",
+    "imageCaption": "Wading birds along the restored Cheonggyecheon river corridor.",
+    "imageCredit": "Forest Explorer visual archive",
+    "imageLicense": "Project asset",
+    "diet": "Carnivore — fish, amphibians, crustaceans and small mammals",
+    "activity": "Crepuscular and diurnal",
+    "size": "90–98 cm body length; 1.75–1.95 m wingspan",
+    "lifespan": "5–15 years",
+    "distribution": "Widespread across Europe, Asia and Africa.",
+    "habitat": "Rivers, lakes, marshes, estuaries, rice fields and urban waterways.",
+    "physical": "A tall grey wading bird with a long neck, dagger-like yellow bill and long legs.",
+    "behaviour": "An ambush hunter that stands motionless in shallow water before striking with a rapid neck movement. Usually solitary when foraging, often colonial when nesting.",
+    "reproduction": "Nests in trees or reed beds, often in colonies. Three to five eggs are incubated for about four weeks.",
+    "description": "A familiar indicator of healthy wetlands and rivers. Its return to the Cheonggyecheon became a visible symbol of the stream's ecological recovery.",
+    "keyTraits": [
+      "Apex wading predator of shallow water",
+      "Wingspan of almost two metres",
+      "Indicator species for river restoration"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Pelecaniformes",
+      "family": "Ardeidae",
+      "genus": "Ardea"
+    },
+    "references": [
+      "IUCN Red List — Ardea cinerea",
+      "GBIF — Ardea cinerea"
+    ]
+  },
+  {
+    "id": "scarlet-macaw",
+    "commonName": "Scarlet Macaw",
+    "scientificName": "Ara macao",
+    "category": "Birds",
+    "forestId": "amazon-rainforest",
+    "forestIds": [
+      "amazon-rainforest"
+    ],
+    "conservationStatus": "LC",
+    "statusLabel": "Least Concern",
+    "endemic": false,
+    "rare": false,
+    "featured": false,
+    "image": "./images/amazon/4_macaws_flight.jpg",
+    "imageCaption": "Scarlet macaws in flight over the Amazon canopy.",
+    "imageCredit": "Forest Explorer visual archive",
+    "imageLicense": "Project asset",
+    "diet": "Frugivore and granivore — fruit, seeds and nuts",
+    "activity": "Diurnal",
+    "size": "75–90 cm body length; 1–1.2 m wingspan",
+    "lifespan": "40–50 years",
+    "distribution": "Lowland tropical forests from southern Mexico through Central America to the Amazon Basin.",
+    "habitat": "Mature tropical rainforest, riverine forest and forest edges.",
+    "physical": "A brilliant scarlet parrot with blue and yellow wing feathers, a white facial patch and a hooked bill.",
+    "behaviour": "Pairs bond for life and fly together, often calling loudly. Intelligent, social and dependent on large trees for nesting.",
+    "reproduction": "Nests in tree cavities. Two to four eggs are incubated for around five weeks.",
+    "description": "One of the most recognisable Neotropical birds. Its large range helps it persist, but local declines follow hunting, trapping and loss of old nesting trees.",
+    "keyTraits": [
+      "Strong pair bonds",
+      "Requires large nesting trees",
+      "Long-lived large parrot"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Psittaciformes",
+      "family": "Psittacidae",
+      "genus": "Ara"
+    },
+    "references": [
+      "IUCN Red List — Ara macao",
+      "GBIF — Ara macao"
+    ]
+  },
+  {
+    "id": "boyds-forest-dragon",
+    "commonName": "Boyd's Forest Dragon",
+    "scientificName": "Lophosaurus boydii",
+    "category": "Reptiles",
+    "forestId": "daintree-rainforest",
+    "forestIds": [
+      "daintree-rainforest"
+    ],
+    "conservationStatus": "NE",
+    "statusLabel": "Not Evaluated",
+    "endemic": true,
+    "rare": true,
+    "featured": false,
+    "image": "./images/species/boyd_forest_dragon.jpg",
+    "imageCaption": "Boyd's forest dragon in the Daintree rainforest.",
+    "imageCredit": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "diet": "Insectivore — insects, worms and other small invertebrates",
+    "activity": "Diurnal",
+    "size": "20–30 cm body length",
+    "lifespan": "Up to 10 years",
+    "distribution": "Restricted to the Wet Tropics rainforests of north-eastern Queensland, Australia.",
+    "habitat": "Lowland and upland tropical rainforest, especially along forest tracks and tree trunks.",
+    "physical": "A small agamid lizard with a distinctive angular head, spiny crest, cryptic colouration and a long tail.",
+    "behaviour": "Expert at camouflage, often remaining motionless on tree trunks. It relies on the dappled light of the rainforest to avoid detection.",
+    "reproduction": "Females lay small clutches of eggs in moist soil or leaf litter.",
+    "description": "A rainforest endemic that is rarely far from a tree trunk. Its restricted range makes it a flagship for Wet Tropics conservation.",
+    "keyTraits": [
+      "Endemic to the Wet Tropics",
+      "Remarkable bark camouflage",
+      "An understorey insect hunter"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Squamata",
+      "family": "Agamidae",
+      "genus": "Lophosaurus"
+    },
+    "references": [
+      "Atlas of Living Australia — Lophosaurus boydii",
+      "GBIF — Lophosaurus boydii"
+    ]
+  },
+  {
+    "id": "golden-toad",
+    "commonName": "Golden Toad",
+    "scientificName": "Incilius periglenes",
+    "category": "Amphibians",
+    "forestId": "monteverde-cloud-forest",
+    "forestIds": [
+      "monteverde-cloud-forest"
+    ],
+    "conservationStatus": "EX",
+    "statusLabel": "Extinct",
+    "endemic": true,
+    "rare": true,
+    "featured": true,
+    "image": "./images/species/golden_toad.jpg",
+    "imageCaption": "The golden toad of Monteverde, preserved in a historical photograph.",
+    "imageCredit": "Charles H. Smith",
+    "imageLicense": "Public domain",
+    "diet": "Insectivore — small arthropods",
+    "activity": "Diurnal during the breeding season",
+    "size": "4–5 cm",
+    "lifespan": "Unknown; probably a few years",
+    "distribution": "Known only from a small area of cloud forest near Monteverde, Costa Rica.",
+    "habitat": "High-elevation cloud forest, breeding in temporary pools among mossy roots.",
+    "physical": "Males were brilliant golden-orange; females were darker with red spots. The species was highly sexually dimorphic.",
+    "behaviour": "Males gathered in large numbers around temporary pools during the early rainy season to compete for mates.",
+    "reproduction": "Breeding was explosive and tied to rain. Eggs were laid in shallow pools; larvae developed rapidly.",
+    "description": "The golden toad vanished abruptly in 1989 and was declared extinct. Its disappearance became a global symbol of amphibian declines linked to climate change, disease and habitat vulnerability.",
+    "keyTraits": [
+      "Extinct",
+      "Endemic to a tiny cloud-forest area",
+      "A symbol of global amphibian decline"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Amphibia",
+      "order": "Anura",
+      "family": "Bufonidae",
+      "genus": "Incilius"
+    },
+    "references": [
+      "IUCN Red List — Incilius periglenes",
+      "AmphibiaWeb — Incilius periglenes"
+    ]
+  },
+  {
+    "id": "oriental-sweetfish",
+    "commonName": "Oriental Sweetfish (Ayu)",
+    "scientificName": "Plecoglossus altivelis",
+    "category": "Fish",
+    "forestId": "cheonggyecheon-urban-stream",
+    "forestIds": [
+      "cheonggyecheon-urban-stream"
+    ],
+    "conservationStatus": "NE",
+    "statusLabel": "Not Evaluated",
+    "endemic": false,
+    "rare": false,
+    "featured": false,
+    "image": "./images/cheonggyecheon/2_crystal_rapids.jpg",
+    "imageCaption": "Clear, oxygenated shallows of the Cheonggyecheon — sweetfish habitat.",
+    "imageCredit": "Forest Explorer visual archive",
+    "imageLicense": "Project asset",
+    "diet": "Herbivore — algae and biofilm on river stones",
+    "activity": "Diurnal",
+    "size": "15–30 cm",
+    "lifespan": "About one year",
+    "distribution": "Rivers and coastal waters of East Asia, including Japan, Korea, China and Taiwan.",
+    "habitat": "Clear, fast-flowing rivers with gravel and cobble beds; migrates between freshwater and coastal waters.",
+    "physical": "A slender, silvery fish with a small mouth and a distinctive sweet, melon-like scent when fresh.",
+    "behaviour": "Grazes algae from rocks and defends feeding territories. Sensitive to poor water quality and barriers to migration.",
+    "reproduction": "Adults spawn in autumn; larvae drift downstream to the sea and juveniles migrate back upstream in spring.",
+    "description": "Prized as a food fish and a sensitive indicator of clean, connected rivers. Its return to the restored Cheonggyecheon was celebrated as a conservation milestone.",
+    "keyTraits": [
+      "Territorial algal grazer",
+      "Requires clean, oxygen-rich water",
+      "Migratory life cycle linking river and sea"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Actinopterygii",
+      "order": "Osmeriformes",
+      "family": "Plecoglossidae",
+      "genus": "Plecoglossus"
+    },
+    "references": [
+      "GBIF — Plecoglossus altivelis",
+      "FishBase — Plecoglossus altivelis"
+    ]
+  },
+  {
+    "id": "grey-wolf",
+    "commonName": "Grey Wolf",
+    "scientificName": "Canis lupus",
+    "category": "Mammals",
+    "forestId": "bialowieza-primeval-forest",
+    "forestIds": [
+      "bialowieza-primeval-forest"
+    ],
+    "conservationStatus": "LC",
+    "statusLabel": "Least Concern",
+    "endemic": false,
+    "rare": false,
+    "featured": false,
+    "image": "./images/black_forest/2_conifer_sunbeams.jpg",
+    "imageCaption": "Temperate forest habitat used by wolves in Central Europe.",
+    "imageCredit": "Forest Explorer visual archive",
+    "imageLicense": "Project asset",
+    "diet": "Carnivore — deer, wild boar, beaver and smaller prey",
+    "activity": "Crepuscular and nocturnal",
+    "size": "1.0–1.6 m body length; 30–50 kg",
+    "lifespan": "8–13 years",
+    "distribution": "Widespread across the Northern Hemisphere, including Europe, Asia and North America.",
+    "habitat": "Forests, tundra, grassland and mountainous terrain; requires large connected landscapes.",
+    "physical": "A large, highly adaptable canid with a broad muzzle, erect ears and a bushy tail.",
+    "behaviour": "Lives in family packs with complex social hierarchies, cooperative hunting and scent communication.",
+    "reproduction": "Breeding pairs produce a litter of four to six pups after a gestation of about 63 days.",
+    "description": "A keystone predator whose return to European forests is changing prey behaviour and ecosystem dynamics. Białowieża is one of its important lowland strongholds.",
+    "keyTraits": [
+      "Highly social pack hunter",
+      "Large territorial requirements",
+      "Apex predator of European forests"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Canidae",
+      "genus": "Canis"
+    },
+    "references": [
+      "IUCN Red List — Canis lupus",
+      "GBIF — Canis lupus"
+    ]
+  },
+  {
+    "id": "spotted-owl",
+    "commonName": "Spotted Owl",
+    "scientificName": "Strix occidentalis",
+    "category": "Birds",
+    "forestId": "redwood-national-park",
+    "forestIds": [
+      "redwood-national-park"
+    ],
+    "conservationStatus": "NT",
+    "statusLabel": "Near Threatened",
+    "endemic": false,
+    "rare": true,
+    "featured": false,
+    "image": "./images/redwood/3_monumental_trunks.jpg",
+    "imageCaption": "Old-growth redwood forest habitat of the spotted owl.",
+    "imageCredit": "Forest Explorer visual archive",
+    "imageLicense": "Project asset",
+    "diet": "Carnivore — flying squirrels, woodrats and other small mammals",
+    "activity": "Nocturnal",
+    "size": "40–48 cm body length; 1.1 m wingspan",
+    "lifespan": "10–20 years",
+    "distribution": "Western North America from British Columbia to southern Mexico, in three subspecies.",
+    "habitat": "Mature and old-growth forest with complex structure, large trees and closed canopy.",
+    "physical": "A medium-sized dark-brown owl with white spots, dark eyes and a rounded facial disc.",
+    "behaviour": "Territorial and largely resident. Requires large home ranges and benefits from structurally complex forest.",
+    "reproduction": "Pairs nest in tree cavities or platforms. Clutch size varies with prey availability, typically one to three eggs.",
+    "description": "An old-growth forest specialist whose decline became a symbol of the conflict between logging and conservation in the Pacific Northwest.",
+    "keyTraits": [
+      "Near Threatened",
+      "Old-growth forest specialist",
+      "Sensitive to forest fragmentation and barred owl competition"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Strigiformes",
+      "family": "Strigidae",
+      "genus": "Strix"
+    },
+    "references": [
+      "IUCN Red List — Strix occidentalis",
+      "U.S. Fish and Wildlife Service — spotted owl"
+    ]
+  },
+  {
+    "id": "ulysses-butterfly",
+    "commonName": "Ulysses Butterfly",
+    "scientificName": "Papilio ulysses",
+    "category": "Insects",
+    "forestId": "daintree-rainforest",
+    "forestIds": [
+      "daintree-rainforest"
+    ],
+    "conservationStatus": "NE",
+    "statusLabel": "Not Evaluated",
+    "endemic": false,
+    "rare": false,
+    "featured": false,
+    "image": "./images/daintree/02_rainforest.jpg",
+    "imageCaption": "Daintree rainforest understorey, habitat of the Ulysses butterfly.",
+    "imageCredit": "Killerscene",
+    "imageLicense": "CC0",
+    "diet": "Nectar; larvae feed on selected rainforest plants",
+    "activity": "Diurnal",
+    "size": "Wingspan 10–14 cm",
+    "lifespan": "Several weeks as an adult",
+    "distribution": "North-eastern Australia, New Guinea and nearby islands.",
+    "habitat": "Tropical rainforest, forest edges and gardens.",
+    "physical": "A large swallowtail butterfly with brilliant iridescent blue upper wings and dark margins.",
+    "behaviour": "Males patrol forest edges and sunlit gaps; the bright blue flash is visible at a distance and can be used to track individuals.",
+    "reproduction": "Females lay eggs on specific host plants. Larvae develop through several instars before pupating.",
+    "description": "One of the most spectacular butterflies of the Wet Tropics. Its electric blue wings are produced by structural colour rather than pigment.",
+    "keyTraits": [
+      "Iridescent structural colour",
+      "Fast, erratic flight",
+      "Rainforest edge specialist"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Lepidoptera",
+      "family": "Papilionidae",
+      "genus": "Papilio"
+    },
+    "references": [
+      "Atlas of Living Australia — Papilio ulysses",
+      "GBIF — Papilio ulysses"
+    ]
+  },
+  {
+    "id": "goliath-beetle",
+    "commonName": "Goliath Beetle",
+    "scientificName": "Goliathus goliatus",
+    "category": "Insects",
+    "forestId": "congo-basin-rainforest",
+    "forestIds": [
+      "congo-basin-rainforest"
+    ],
+    "conservationStatus": "NE",
+    "statusLabel": "Not Evaluated",
+    "endemic": false,
+    "rare": false,
+    "featured": false,
+    "image": "./images/congo/01_likouala_river.jpg",
+    "imageCaption": "Congo Basin rainforest, habitat of the Goliath beetle.",
+    "imageCredit": "JosepMGracia",
+    "imageLicense": "CC BY-SA 4.0",
+    "diet": "Adults feed on fruit and tree sap; larvae feed on decaying plant matter",
+    "activity": "Diurnal",
+    "size": "Up to 11 cm, one of the world’s heaviest insects",
+    "lifespan": "Several months to a year",
+    "distribution": "Equatorial forests of West and Central Africa.",
+    "habitat": "Lowland tropical rainforest with abundant decaying wood and fruiting trees.",
+    "physical": "A massive scarab beetle with a black-and-white patterned body; males have a Y-shaped horn used in contests.",
+    "behaviour": "Adults are attracted to fermenting fruit and sap. Larvae live in rich, decaying organic matter and take months to develop.",
+    "reproduction": "Females lay eggs in decaying plant material; larvae pass through several stages before pupating in a soil cell.",
+    "description": "Among the heaviest beetles on Earth, the Goliath beetle is a rainforest recycler whose larvae help break down decaying plant matter.",
+    "keyTraits": [
+      "One of the world’s heaviest insects",
+      "Male horn used in contests",
+      "Rainforest decomposer"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Coleoptera",
+      "family": "Scarabaeidae",
+      "genus": "Goliathus"
+    },
+    "references": [
+      "GBIF — Goliathus goliatus",
+      "Encyclopedia of Life — Goliathus"
+    ]
+  },
+  {
+    "id": "amazon-river-dolphin",
+    "commonName": "Amazon River Dolphin (Boto)",
+    "scientificName": "Inia geoffrensis",
+    "category": "Fish",
+    "forestId": "amazon-rainforest",
+    "forestIds": [
+      "amazon-rainforest"
+    ],
+    "conservationStatus": "EN",
+    "statusLabel": "Endangered",
+    "endemic": false,
+    "rare": true,
+    "featured": false,
+    "image": "./images/amazon/3_flooded_igapo.jpg",
+    "imageCaption": "Flooded igapó forest, the river dolphin’s seasonal habitat.",
+    "imageCredit": "Forest Explorer visual archive",
+    "imageLicense": "Project asset",
+    "diet": "Piscivore — fish, crustaceans and small aquatic animals",
+    "activity": "Diurnal and nocturnal",
+    "size": "2.0–2.5 m; 85–185 kg",
+    "lifespan": "25–30 years",
+    "distribution": "Amazon and Orinoco river systems of South America.",
+    "habitat": "Main river channels, tributaries, lakes and flooded forest during the wet season.",
+    "physical": "A freshwater dolphin with a long beak, flexible neck, pink-to-grey skin and small eyes. Adults often become pinker with age.",
+    "behaviour": "Uses echolocation to navigate murky water and flooded forest. Often swims alone or in small groups and can move between rivers and floodplain lakes.",
+    "reproduction": "Females give birth to a single calf after a long gestation; calves stay close to their mothers for an extended period.",
+    "description": "Also called the pink river dolphin, the boto is the largest freshwater dolphin. It is threatened by dams, fishing gear, mercury pollution and river traffic.",
+    "keyTraits": [
+      "Largest freshwater dolphin",
+      "Flexible neck for navigating flooded forest",
+      "Endangered by habitat fragmentation and pollution"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Iniidae",
+      "genus": "Inia"
+    },
+    "references": [
+      "IUCN Red List — Inia geoffrensis",
+      "GBIF — Inia geoffrensis"
+    ]
+  },
+  {
+    "id": "saltwater-crocodile",
+    "commonName": "Saltwater Crocodile",
+    "scientificName": "Crocodylus porosus",
+    "category": "Reptiles",
+    "forestId": "sundarbans-mangrove",
+    "forestIds": [
+      "sundarbans-mangrove",
+      "daintree-rainforest"
+    ],
+    "conservationStatus": "LC",
+    "statusLabel": "Least Concern",
+    "endemic": false,
+    "rare": false,
+    "featured": false,
+    "image": "./images/sundarbans/03_forest_river.jpg",
+    "imageCaption": "Sundarban river channels, habitat of the saltwater crocodile.",
+    "imageCredit": "Pinakpani",
+    "imageLicense": "CC BY-SA 4.0",
+    "diet": "Carnivore — fish, reptiles, birds and mammals",
+    "activity": "Nocturnal and crepuscular",
+    "size": "3–6 m; up to 1,000 kg",
+    "lifespan": "70 years or more",
+    "distribution": "Coastal waters, estuaries and rivers from eastern India through Southeast Asia to northern Australia.",
+    "habitat": "Mangroves, estuaries, tidal rivers, swamps and coastal lagoons.",
+    "physical": "The largest living reptile, with a broad snout, armoured skin, powerful tail and salt glands that allow survival in marine environments.",
+    "behaviour": "Apex predator of estuarine systems. Adults defend territories and can travel long distances along coastlines. Usually ambush prey at the water’s edge.",
+    "reproduction": "Females build nest mounds and guard the eggs. Hatchlings are vulnerable to predation and remain near nursery wetlands.",
+    "description": "Saltwater crocodiles connect freshwater rivers, mangroves and the open sea. Their recovery after historical overhunting shows how large predators can return when protected.",
+    "keyTraits": [
+      "Largest living reptile",
+      "Apex predator of estuaries",
+      "Salt glands enable marine travel"
+    ],
+    "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Crocodilia",
+      "family": "Crocodylidae",
+      "genus": "Crocodylus"
+    },
+    "references": [
+      "IUCN Red List — Crocodylus porosus",
+      "GBIF — Crocodylus porosus"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+node_modules/
+frames/
+data/*.db
+data/*.db-wal
+data/*.db-shm
+data/cache_wikimedia/
+images/uploads/*
+!images/uploads/.gitkeep
+.DS_Store
+Thumbs.db

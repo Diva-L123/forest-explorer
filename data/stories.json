@@ -1,0 +1,445 @@
+[
+  {
+    "id": "story-cheonggyecheon-resurrection",
+    "forestId": "cheonggyecheon-urban-stream",
+    "forestName": "Cheonggyecheon Riparian Corridor",
+    "title": "The Resurrected River: Reclaiming the Dragon's Path",
+    "category": "Historical Miracle & Royal Lore",
+    "badge": "⚡ True Eco-Miracle",
+    "origin": "Joseon Dynasty (1411) to Modern Seoul (2003)",
+    "thrillRating": "9.8 / 10",
+    "teaser": "Buried for nearly half a century beneath a suffocating 4-lane expressway, an ancient royal water corridor was unearthed—and within weeks, wild wildlife returned in droves.",
+    "quote": "You cannot bury the heart of nature; given one glimpse of sky, it will tear through asphalt to sing again.",
+    "chapters": [
+      {
+        "heading": "The Dragon's Artery",
+        "text": "In 1411, King Taejong of Korea’s Joseon Dynasty ordered the carving of a great natural canal through the heart of Hanyang (modern Seoul). Court astrologers warned that the city's fortune depended on keeping this water pure, describing it as the throat of the Blue Dragon that guarded the capital."
+      },
+      {
+        "heading": "The Great Silence Under Concrete",
+        "text": "By 1958, following wartime devastation and rapid industrial growth, the pristine river had turned into a muddy ditch. In an act of mid-century engineering hubris, the government entombed the river entirely under thick concrete and built a towering elevated highway overhead. For almost 40 years, sunlight never touched the riverbed. City dwellers above forgot water ever flowed beneath their tires."
+      },
+      {
+        "heading": "The Day Sunlight Returned",
+        "text": "In 2003, a bold project began to smash through 5.8 kilometers of highway. As heavy machinery ripped away the concrete slabs, cold natural spring water rushed back into the sun. Within months, an ecological explosion took place: wild grey herons descended from the mountains, Eurasian tree sparrows nested along the rocks, and schools of sweetfish swam upstream through the heart of a neon metropolis."
+      }
+    ],
+    "highlights": [
+      "Over 600 species of flora and fauna repopulated the corridor within 3 years of daylighting.",
+      "The corridor lowered inner-city summer temperatures by an astonishing 3.6°C.",
+      "Today, thousands of wild birds bathe right alongside pedestrian stepping stones."
+    ],
+    "relatedSpeciesIds": [
+      "eurasian-tree-sparrow",
+      "grey-heron",
+      "oriental-sweetfish"
+    ],
+    "image": "./images/cheonggyecheon/1_morning_mist.jpg",
+    "date": "2026-10-12",
+    "verified": true,
+    "verificationLabel": "Verified account",
+    "references": [
+      "Seoul Metropolitan Government — Cheonggyecheon restoration",
+      "Korea Environment Institute — urban stream monitoring"
+    ],
+    "sourceLabel": "Sources reviewed"
+  },
+  {
+    "id": "story-curupira-guardian",
+    "forestId": "amazon-rainforest",
+    "forestName": "Amazon Basin Rainforest",
+    "title": "The Curupira & The Whistle in the Deep Canopy",
+    "category": "Indigenous Lore & Forest Spirits",
+    "badge": "🌿 Ancient Myth",
+    "origin": "Tupi-Guarani Indigenous Folklore",
+    "thrillRating": "9.6 / 10",
+    "teaser": "Deep in the flooded igapó forests, hunters tell of a flaming-haired demon with backwards feet who makes greedy poachers vanish without a trace.",
+    "quote": "If you hear a high-pitched whistle echoing through the kapok trees, drop your weapon and run backwards—or the jungle will swallow your footprints.",
+    "chapters": [
+      {
+        "heading": "The Guardian with Backwards Feet",
+        "text": "For centuries before European arrival, indigenous Tupi tribes spoke of the Curupira—a small, agile spirit with fire-red hair and feet pointed completely backwards. His inverted tracks lead hunters into labyrinthine swamps where every tree looks identical."
+      },
+      {
+        "heading": "The Law of the Jungle",
+        "text": "The Curupira does not hunt harmless wanderers; his wrath is reserved exclusively for those who take more than they need. If a poacher slaughters a nursing jaguar or cuts an ancient ceiba tree for greed, the Curupira mimics the cries of lost children to lure the hunter deep into anaconda territory."
+      },
+      {
+        "heading": "The Tree Test",
+        "text": "Before violent tropical storms, elders say you can hear the Curupira furiously knocking his fists against the hollow trunks of giant trees. He does this to test their strength, warning nesting birds and sleeping sloths which branches will survive the tempest."
+      }
+    ],
+    "highlights": [
+      "Traditional Amazonian woodsmen still leave gifts of tobacco and honey at tree roots before entering unmapped territory.",
+      "Botanists and field researchers attribute the 'Curupira whistle' to the acoustic resonation of high-canopy cicadas and howler monkeys.",
+      "Remains one of South America's most revered ecological symbols of sustainable hunting."
+    ],
+    "relatedSpeciesIds": [
+      "jaguar-panthera",
+      "harpy-eagle"
+    ],
+    "image": "./images/amazon/1_canopy_sunrise.jpg",
+    "date": "2026-10-04",
+    "verified": false,
+    "verificationLabel": "Cultural / unverified account",
+    "references": [
+      "Tupi-Guarani oral tradition",
+      "Brazilian folklore studies"
+    ],
+    "sourceLabel": "Traditional account"
+  },
+  {
+    "id": "story-yakushima-kodama",
+    "forestId": "yakushima-ancient-forest",
+    "forestName": "Yakushima Primeval Cedar Forest",
+    "title": "The Whispering Kodama & The 7,000-Year Cedar",
+    "category": "Spiritual Legends & Studio Ghibli Lore",
+    "badge": "✨ Mythical Wonder",
+    "origin": "Ancient Shinto & Edo Period Chronicles",
+    "thrillRating": "9.7 / 10",
+    "teaser": "Climb into the clouds of Shiratani Unsuikyo, where thousand-year-old moss drips from branches and clicking tree spirits guard Jomon Sugi—a tree older than the Pyramids of Giza.",
+    "quote": "Every tree that lives past a thousand years develops a heartbeat of its own.",
+    "chapters": [
+      {
+        "heading": "The Island of 35 Days of Rain",
+        "text": "Locals have a saying: 'It rains 35 days a month on Yakushima.' The island’s 2,000-meter granite peaks wring oceanic typhoons into perpetual mountain mist, feeding an ancient biome where cedar trees grow with resin so thick they refuse to decay for millennia."
+      },
+      {
+        "heading": "The Legend of the Jomon Sugi",
+        "text": "Hidden high in the mountainous sanctuary stands Jomon Sugi—a colossal cedar with a trunk circumference of 16.4 meters. Carbon-dating estimates its age between 2,170 and 7,200 years. When samurai loggers were sent by Toyotomi Hideyoshi in the 16th century to fell Yakushima’s cedars, woodcutters claimed their axes broke with loud thunderclaps, and spiritual sightings drove entire crews away."
+      },
+      {
+        "heading": "The Kodama of Shiratani",
+        "text": "Travelers hiking through the moss ravine often hear distinct wooden tapping sounds reverberating off hollow cedar burls. In Japanese folklore, these are the Kodama (tree spirits). Hayao Miyazaki spent weeks camping alone in these misty valleys to capture their ethereal presence for his masterpiece, 'Princess Mononoke'."
+      }
+    ],
+    "highlights": [
+      "Yakushima’s high resin content makes its cedar wood virtually immune to mold and wood rot.",
+      "The forest floor is carpeted with over 600 species of hyper-rare luminous bryophytes and mosses.",
+      "Hikers must maintain silence in the upper cedar sanctum to preserve the sacred tranquility."
+    ],
+    "relatedSpeciesIds": [
+      "yakushima-macaque",
+      "sika-deer"
+    ],
+    "image": "./images/yakushima/1_moss_stream.jpg",
+    "date": "2026-09-26",
+    "verified": false,
+    "verificationLabel": "Cultural / unverified account",
+    "references": [
+      "Yakushima National Park",
+      "Japanese folklore and Shinto tradition"
+    ],
+    "sourceLabel": "Traditional account"
+  },
+  {
+    "id": "story-black-forest-mummelsee",
+    "forestId": "black-forest",
+    "forestName": "The Black Forest (Schwarzwald)",
+    "title": "The Sunken King of Mummelsee & The Shadow King",
+    "category": "Brothers Grimm Folklore",
+    "badge": "🌙 Dark Mystery",
+    "origin": "Germanic Alpine Myths & 16th-Century Chronicles",
+    "thrillRating": "9.4 / 10",
+    "teaser": "In the deepest evergreen ridges lies a black glacial lake with no bottom. Throw a pebble into its glassy mirror, and the water boils in fury.",
+    "quote": "Never disturb the black mirror of Mummelsee, for the water king sleeps with his palace beneath the pine shadows.",
+    "chapters": [
+      {
+        "heading": "The Unbroken Canopy",
+        "text": "Roman legions marching into Germania stopped dead at the edge of the Schwarzwald, christening it 'Silva Nigra'—the Black Forest—because the silver firs and Norway spruces grew with branches so intertwined that daylight vanished into perpetual twilight."
+      },
+      {
+        "heading": "The Boiling Tarn",
+        "text": "At 1,036 meters altitude rests the Mummelsee, a dark cirque lake formed in the last Ice Age. Local superstition warned that disturbing its waters would trigger immediate mountain tempests. In 1678, chronicler Grimmelshausen recorded that plunging a pole into the depths caused sulfuric bubbles and unearthly bellows to rise from the drowned kingdom below."
+      },
+      {
+        "heading": "Der Grossmann of the Pines",
+        "text": "Folktales shared by woodsmen by the hearth warned children never to linger in the spruce groves after twilight, lest they encounter Der Grossmann—a tall, spindly cloaked figure whose footsteps produce the sound of breaking pine needles directly behind travelers."
+      }
+    ],
+    "highlights": [
+      "Inspired classic Grimm tales including 'Hansel and Gretel' and 'Little Red Riding Hood'.",
+      "Mummelsee's pitch-black appearance is caused by dissolved dark peat and towering ridge shadows.",
+      "Home to the ancient European lynx and elusive western capercaillie bird."
+    ],
+    "relatedSpeciesIds": [
+      "eurasian-lynx",
+      "capercaillie"
+    ],
+    "image": "./images/black_forest/1_mummelsee_lake.jpg",
+    "date": "2026-09-18",
+    "verified": false,
+    "verificationLabel": "Cultural / unverified account",
+    "references": [
+      "Grimmelshausen — 17th-century chronicles",
+      "Black Forest National Park"
+    ],
+    "sourceLabel": "Traditional account"
+  },
+  {
+    "id": "story-hyperion-tallest-tree",
+    "forestId": "redwood-national-park",
+    "forestName": "Redwood Coast & Ancient Groves",
+    "title": "The Secret of Hyperion: Hiding the King of the Earth",
+    "category": "Epic Expedition Chronicle",
+    "badge": "🌲 Real-Life Quest",
+    "origin": "Coast Range Expedition (2006)",
+    "thrillRating": "9.9 / 10",
+    "teaser": "At 380.1 feet (115.85m), Hyperion is the tallest living thing on planet Earth. To keep it alive, scientists scrubbed its GPS coordinates from all public maps.",
+    "quote": "Standing at the base of Hyperion, you do not feel small; you feel as though you are standing in the presence of eternity.",
+    "chapters": [
+      {
+        "heading": "The Fog That Drinks the Sky",
+        "text": "Along northern California's jagged coastline, moisture-laden Pacific fog pours into coastal valleys every summer morning. Coast Redwoods (Sequoia sempervirens) have evolved to drink water directly through their needles, allowing them to bypass the hydraulic limits of ordinary trees."
+      },
+      {
+        "heading": "The Discovery in Redwood Creek",
+        "text": "In the summer of 2006, naturalists Chris Atkins and Michael Taylor scrambled through impenetrable blackberry brush and 45-degree ravines. Armed with precision laser rangefinders, they aimed up into an unnamed grove and recoiled in shock: the laser bounced back at 115.85 meters—taller than the Statue of Liberty and Big Ben."
+      },
+      {
+        "heading": "The Sacred Secret",
+        "text": "Realizing that stampedes of tourist footprints would crush the tree's delicate shallow root systems, the National Park Service enacted an unprecedented classified policy: Hyperion's exact location was permanently scrubbed from scientific papers. Anyone attempting to bushwhack to the tree today faces a $5,000 fine and six months in federal prison to preserve the giant."
+      }
+    ],
+    "highlights": [
+      "Hyperion is estimated to contain over 530 cubic meters of wood and weighs over 1.2 million pounds.",
+      "The top of the tree hosts its own canopy ecosystem with flying squirrels, ferns, and salamanders living hundreds of feet in the air without ever touching the forest floor.",
+      "Has survived forest fires, logging booms, and seismic earthquakes for over 800 years."
+    ],
+    "relatedSpeciesIds": [
+      "spotted-owl",
+      "pacific-banana-slug"
+    ],
+    "image": "./images/redwood/1_living_giants.jpg",
+    "date": "2026-09-10",
+    "verified": true,
+    "verificationLabel": "Verified account",
+    "references": [
+      "U.S. National Park Service — Redwood",
+      "Gymnosperm Database — Sequoia sempervirens"
+    ],
+    "sourceLabel": "Sources reviewed"
+  },
+  {
+    "id": "story-golden-toad-mystery",
+    "forestId": "monteverde-cloud-forest",
+    "forestName": "Monteverde Cloud Forest Reserve",
+    "title": "The Phantom of the Cloud Forest: The Golden Toad",
+    "category": "Ecological Mystery & Legend",
+    "badge": "🐸 Lost Treasure",
+    "origin": "Costa Rican Continental Divide (1989)",
+    "thrillRating": "9.3 / 10",
+    "teaser": "For centuries, locals spoke of golden jewels hopping across misty volcanic mud. In 1989, over 1,500 glowing toads vanished into the clouds overnight.",
+    "quote": "Some species are like shooting stars in the forest canopy: incandescent, unforgettable, and gone before we understand them.",
+    "chapters": [
+      {
+        "heading": "The Jewel of the Mist",
+        "text": "High atop Costa Rica's Monteverde reserve, trade winds force Caribbean clouds upward into a saturated mist. In 1964, herpetologist Jay Savage was led by indigenous guides to a tiny 4-square-kilometer mountain pocket where thousands of miniature toads made entirely of dazzling, burnished gold were gathered."
+      },
+      {
+        "heading": "The Night of 1,500 Glows",
+        "text": "Every year during the early rains, the forest floor would erupt with luminous orange and gold as males competed for volcanic breeding pools under hanging bromeliads. In 1987, over 1,500 golden toads were counted in a single week."
+      },
+      {
+        "heading": "The Silent Disappearance",
+        "text": "Just two years later, in 1989, scientists arrived for the annual count. Only a single solitary male was found, sitting on a wet stone. Since that day, despite hundreds of infrared cameras and acoustic trackers, not a single golden toad has ever been seen again. It became the global symbol of climate sensitivity and the ghost of the cloud forest."
+      }
+    ],
+    "highlights": [
+      "Known scientifically as Incilius periglenes, found nowhere else on planet Earth except this single 4km² ridge.",
+      "Monteverde’s suspension bridges allow visitors to walk 200 feet high through the cloud canopy where toads once bred.",
+      "Local guides still tell children that on misty full-moon nights, a flash of gold hops across the high moss roots."
+    ],
+    "relatedSpeciesIds": [
+      "resplendent-quetzal",
+      "red-eyed-tree-frog"
+    ],
+    "image": "./images/monteverde/1_canopy_bridge.jpg",
+    "date": "2026-08-29",
+    "verified": true,
+    "verificationLabel": "Verified account",
+    "references": [
+      "IUCN Red List — Incilius periglenes",
+      "Monteverde Cloud Forest Reserve"
+    ],
+    "sourceLabel": "Sources reviewed"
+  },
+  {
+    "id": "story-bison-primeval-sanctuary",
+    "forestId": "bialowieza-primeval-forest",
+    "forestName": "Białowieża Primeval Forest",
+    "title": "The Ghost Herd of the King's Primeval Hunt",
+    "category": "Royal Chronicles & Wilderness Rebirth",
+    "badge": "🦬 Ancient Wild",
+    "origin": "Poland-Belarus Border (1409 to Present)",
+    "thrillRating": "9.5 / 10",
+    "teaser": "When King Jagiełło salted 8 days of bison meat before the battle that changed Europe, he sealed the fate of the world's last ice-age beast in an untouched primeval woods.",
+    "quote": "To enter Białowieża is to step back 10,000 years to the morning after the glaciers melted.",
+    "chapters": [
+      {
+        "heading": "The Royal Decree",
+        "text": "In 1409, Polish King Władysław Jagiełło declared Białowieża his personal royal hunting preserve to provision his army before the Battle of Grunwald. For four centuries, entering the forest without the king's seal was punishable by death—an iron-fisted law that accidentally created Europe's first and longest-running nature sanctuary."
+      },
+      {
+        "heading": "The Brink of Extinction",
+        "text": "While human cities and farmland cleared 99% of Europe's old-growth deciduous woods, Białowieża’s colossal oaks and ash trees stood untouched. But during World War I, famine and poachers wiped out every single wild European bison (żubr). By 1919, the forest had fallen silent."
+      },
+      {
+        "heading": "The Miraculous Comeback",
+        "text": "From just 12 surviving zoo animals, Polish scientists initiated a high-stakes breeding program inside the primeval groves. Today, over 800 wild, free-roaming giant bison crash through the snowy ferns of Białowieża, reclaiming their throne in Europe's most ancient woods."
+      }
+    ],
+    "highlights": [
+      "Białowieża contains oaks that germinated during the Middle Ages, with trunks exceeding 6 meters in circumference.",
+      "Deadwood is left undisturbed, providing sustenance for over 3,000 species of rare beetles and ancient fungi.",
+      "Visitors can track wild bison through the winter snow with certified wilderness wardens."
+    ],
+    "relatedSpeciesIds": [
+      "european-bison",
+      "grey-wolf"
+    ],
+    "image": "./images/bialowieza/01_ancient_oak.jpg",
+    "date": "2026-08-21",
+    "verified": true,
+    "verificationLabel": "Verified account",
+    "references": [
+      "Białowieża National Park",
+      "IUCN Red List — Bison bonasus"
+    ],
+    "sourceLabel": "Sources reviewed"
+  },
+  {
+    "id": "story-okapi-discovery",
+    "forestId": "congo-basin-rainforest",
+    "forestName": "Congo Basin Rainforest",
+    "title": "The Forest Giraffe That Stayed Hidden for Centuries",
+    "category": "Scientific Discovery & Colonial History",
+    "badge": "🔎 Hidden Species",
+    "origin": "Ituri Forest, 1901",
+    "date": "2026-10-20",
+    "verified": true,
+    "verificationLabel": "Verified account",
+    "sourceLabel": "Sources reviewed",
+    "references": [
+      "Zoological Society of London — okapi history",
+      "IUCN Red List — Okapia johnstoni"
+    ],
+    "thrillRating": "9.2 / 10",
+    "teaser": "Local Ituri hunters knew the okapi for generations. Science did not describe it until 1901, after a colonial official sent a skin and two skulls to London.",
+    "quote": "The forest already knew the animal; the museum had to catch up.",
+    "image": "./images/species/okapi.jpg",
+    "chapters": [
+      {
+        "heading": "Known Locally, Invisible to Science",
+        "text": "For generations, Mbuti and other Ituri forest communities hunted and tracked a shy, striped-legged animal they called the okapi. Its skin was traded and its presence understood, but the animal remained outside European scientific records."
+      },
+      {
+        "heading": "A Skin Arrives in London",
+        "text": "In 1901, British official Harry Johnston obtained a skin and skull from the Ituri region and sent them to the Zoological Society of London. Researchers recognised a living relative of the giraffe, and the species was formally described as Okapia johnstoni."
+      },
+      {
+        "heading": "Still Elusive Today",
+        "text": "More than a century later, the okapi remains extremely difficult to see in the wild. Camera traps and local knowledge now provide most records, while armed conflict, mining and bushmeat hunting threaten its forest home."
+      }
+    ],
+    "highlights": [
+      "The okapi is the only living relative of the giraffe.",
+      "Its striped legs help it disappear into the dappled light of the Ituri Forest.",
+      "Local ecological knowledge preceded formal scientific description by generations."
+    ],
+    "relatedSpeciesIds": [
+      "okapi",
+      "african-forest-elephant",
+      "western-lowland-gorilla"
+    ]
+  },
+  {
+    "id": "story-cassowary-garden",
+    "forestId": "daintree-rainforest",
+    "forestName": "Daintree Rainforest",
+    "title": "The Cassowary's Garden: How a Giant Bird Plants a Forest",
+    "category": "Ecological Discovery",
+    "badge": "🌱 Living Connections",
+    "origin": "Wet Tropics of Queensland",
+    "date": "2026-10-16",
+    "verified": true,
+    "verificationLabel": "Verified account",
+    "sourceLabel": "Sources reviewed",
+    "references": [
+      "Queensland Parks and Wildlife Service — cassowary conservation",
+      "Wet Tropics Management Authority"
+    ],
+    "thrillRating": "9.1 / 10",
+    "teaser": "The Southern Cassowary swallows fruits whole, walks kilometres through the rainforest and deposits seeds in its droppings. Entire plant communities depend on this slow, ancient gardening service.",
+    "quote": "Some forests are not only inhabited; they are planted, one swallowed fruit at a time.",
+    "image": "./images/daintree/02_rainforest.jpg",
+    "chapters": [
+      {
+        "heading": "A Fruit Too Large for Most Birds",
+        "text": "Many Daintree fruits evolved to be eaten by large animals. Cassowaries can swallow fruit that would choke a smaller bird, making them one of the few remaining dispersers for several large-seeded rainforest plants."
+      },
+      {
+        "heading": "A Moving Seed Bank",
+        "text": "A single cassowary may move seeds hundreds of metres or more. Studies show that gut passage can improve germination and that cassowary droppings create concentrated patches of seedlings — miniature forests planted along forest paths."
+      },
+      {
+        "heading": "A Fragile Partnership",
+        "text": "Roads, dogs, vehicle collisions and shrinking habitat reduce cassowary numbers. When the bird disappears, the plants that depend on it can lose their dispersal pathway, changing the forest for decades."
+      }
+    ],
+    "highlights": [
+      "Cassowaries are keystone seed dispersers in the Wet Tropics.",
+      "Their droppings can contain seeds from several different fruit species.",
+      "The Australian population is threatened by vehicle strikes and dog attacks."
+    ],
+    "relatedSpeciesIds": [
+      "southern-cassowary",
+      "boyds-forest-dragon"
+    ]
+  },
+  {
+    "id": "story-sundarbans-tide-tiger",
+    "forestId": "sundarbans-mangrove",
+    "forestName": "Sundarbans Mangrove Forest",
+    "title": "Tigers of the Tide: A Forest That Swims",
+    "category": "Adaptation & Conservation",
+    "badge": "🌊 Tidal Predator",
+    "origin": "Sundarbans Delta, Bangladesh and India",
+    "date": "2026-10-08",
+    "verified": true,
+    "verificationLabel": "Verified account",
+    "sourceLabel": "Sources reviewed",
+    "references": [
+      "Sundarbans Tiger Project",
+      "IUCN Red List — Panthera tigris",
+      "UNESCO World Heritage Centre — Sundarbans"
+    ],
+    "thrillRating": "9.4 / 10",
+    "teaser": "In the Sundarbans, tigers cross tidal channels, navigate salt water and hunt through mangroves twice flooded each day. It is one of the most unusual tiger landscapes on Earth.",
+    "quote": "Here the forest floor is not a place at all; it is a tide waiting to return.",
+    "image": "./images/sundarbans/04_bengal_tiger.jpg",
+    "chapters": [
+      {
+        "heading": "A Forest With a Pulse",
+        "text": "Twice each day, tides flood the Sundarbans channels and mudflats. Roots rise from the mud, fish move into the flooded forest and the landscape becomes a maze of water, islands and mangrove thickets."
+      },
+      {
+        "heading": "A Tiger That Swims",
+        "text": "Sundarbans tigers regularly swim between islands in search of prey and territory. Their broad paws, powerful build and comfort in water make them well adapted to the delta, though swimming also brings them into contact with people."
+      },
+      {
+        "heading": "Living With the Tide",
+        "text": "Conservation in the Sundarbans is inseparable from coastal communities. Cyclone shelters, early-warning systems, alternative livelihoods and careful management of human-wildlife conflict are as important as anti-poaching patrols."
+      }
+    ],
+    "highlights": [
+      "The Sundarbans is the world’s largest mangrove forest.",
+      "Its tigers are strong swimmers that move between tidal islands.",
+      "Mangroves help protect coastal communities from cyclones and storm surge."
+    ],
+    "relatedSpeciesIds": [
+      "bengal-tiger",
+      "fishing-cat"
+    ]
+  }
+]

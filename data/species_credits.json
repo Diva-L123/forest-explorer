@@ -1,0 +1,66 @@
+[
+    {
+        "slug":  "species",
+        "file":  "eurasian_lynx.jpg",
+        "title":  "File:Portrait of a Carpathian Lynx.jpg",
+        "artist":  "Wilfredor",
+        "license":  "CC0",
+        "source":  "https://commons.wikimedia.org/wiki/File:Portrait_of_a_Carpathian_Lynx.jpg"
+    },
+    {
+        "slug":  "species",
+        "file":  "yakushima_macaque.jpg",
+        "title":  "File:Yakushima macaque on a branch.jpg",
+        "artist":  "Grendelkhan",
+        "license":  "CC BY-SA 3.0",
+        "source":  "https://commons.wikimedia.org/wiki/File:Yakushima_macaque_on_a_branch.jpg"
+    },
+    {
+        "slug":  "species",
+        "file":  "okapi.jpg",
+        "title":  "File:Okapi (Okapia johnstoni).jpg",
+        "artist":  "k7hpn ",
+        "license":  "CC BY 2.0",
+        "source":  "https://commons.wikimedia.org/wiki/File:Okapi_(Okapia_johnstoni).jpg"
+    },
+    {
+        "slug":  "species",
+        "file":  "western_lowland_gorilla.jpg",
+        "title":  "File:Western lowland gorilla (Gorilla gorilla gorilla) closeup eating.jpg",
+        "artist":  "Jackhynes",
+        "license":  "CC BY-SA 3.0",
+        "source":  "https://commons.wikimedia.org/wiki/File:Western_lowland_gorilla_(Gorilla_gorilla_gorilla)_closeup_eating.jpg"
+    },
+    {
+        "slug":  "species",
+        "file":  "harpy_eagle.jpg",
+        "title":  "File:Harpy Eagle (Harpia harpyja).jpg",
+        "artist":  "Brian Gratwicke from DC, USA",
+        "license":  "CC BY 2.0",
+        "source":  "https://commons.wikimedia.org/wiki/File:Harpy_Eagle_(Harpia_harpyja).jpg"
+    },
+    {
+        "slug":  "species",
+        "file":  "golden_toad.jpg",
+        "title":  "File:Bufo periglenes1.jpg",
+        "artist":  "Charles H. Smith\n\nvergrößert von Aglarech",
+        "license":  "Public domain",
+        "source":  "https://commons.wikimedia.org/wiki/File:Bufo_periglenes1.jpg"
+    },
+    {
+        "slug":  "species",
+        "file":  "fishing_cat.jpg",
+        "title":  "File:Fishing Cat , Prionailurus viverrinus.jpg",
+        "artist":  "Anirnoy",
+        "license":  "CC BY-SA 4.0",
+        "source":  "https://commons.wikimedia.org/wiki/File:Fishing_Cat_,_Prionailurus_viverrinus.jpg"
+    },
+    {
+        "slug":  "species",
+        "file":  "boyd_forest_dragon.jpg",
+        "title":  "File:Boyd\u0027s forest dragon (Lophosaurus boydii) Daintree.jpg",
+        "artist":  "Charles J. Sharp",
+        "license":  "CC BY-SA 4.0",
+        "source":  "https://commons.wikimedia.org/wiki/File:Boyd%27s_forest_dragon_(Lophosaurus_boydii)_Daintree.jpg"
+    }
+]

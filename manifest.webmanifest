@@ -1,0 +1,21 @@
+{
+  "name": "Forest Explorer",
+  "short_name": "Forest Atlas",
+  "description": "An immersive atlas of world forests, rare wildlife, and ancient natural stories.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#06100a",
+  "theme_color": "#06100a",
+  "icons": [
+    {
+      "src": "./images/cheonggyecheon/1_morning_mist.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "./images/bialowieza/01_ancient_oak.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
